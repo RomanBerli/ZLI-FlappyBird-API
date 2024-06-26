@@ -1,7 +1,13 @@
+//Author: Roman Berli
+//Date: 26.6.24
+//Version: 1.0
+//Desc. gamelogic not working
+
 //Loop to Start Games
 
 const frameRate = 1; // 30 frames per second
 const frameDuration = 1000 / frameRate; // 33.33 milliseconds per frame
+
 
 function gameLoop() {
     const start = Date.now();

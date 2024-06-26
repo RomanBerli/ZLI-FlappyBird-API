@@ -1,3 +1,8 @@
+//Author: Roman Berli
+//Date: 26.6.24
+//Version: 1.0
+//Desc. Test API
+
 import express from "express";
 import cors from "cors";
 //import session from "express-session";

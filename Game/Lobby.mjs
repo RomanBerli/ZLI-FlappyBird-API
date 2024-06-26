@@ -1,3 +1,8 @@
+//Author: Roman Berli
+//Date: 26.6.24
+//Version: 1.0
+//Desc. gamelogik not working
+
 //Loop to Start Games
 
 const frameRate = 1; // 30 frames per second

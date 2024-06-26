@@ -1,3 +1,8 @@
+//Author: Roman Berli
+//Date: 26.6.24
+//Version: 1.0
+//Desc. functions for the api
+
 import {countInCollection, writeSession, findAll, writeToken} from "./DB.mjs"
 export {createSession, getAllSessions, getToken};
 

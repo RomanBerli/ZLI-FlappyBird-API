@@ -1,3 +1,7 @@
+//Author: Roman Berli
+//Date: 26.6.24
+//Version: 1.0
+//Desc. Datenbank, diese Funktionen sprechen mit der Datenbank
 export {countInCollection, writeSession, findAll, writeToken, deleteOneWithFilter};
 
 //Connect to DB

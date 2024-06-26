@@ -1,3 +1,7 @@
+//Author: Roman Berli
+//Date: 26.6.24
+//Version: 1.0
+//Desc. test
 const url = "mongodb://127.0.0.1:27017/"; //Database url
 const dbName = "FlappyBird"; // Database Name
 const client = new MongoClient(url); // Connection URL

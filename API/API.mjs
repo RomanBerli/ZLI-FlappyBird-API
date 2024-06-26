@@ -1,3 +1,8 @@
+//Author: Roman Berli
+//Date: 26.6.24
+//Version: 1.0
+//Desc. API code 
+
 import express, { response } from "express";
 import cors from "cors";
 import {createSession, getAllSessions, getToken} from "./Funktion.mjs";
